@@ -1,0 +1,12 @@
+<form class="form" #formTodo (submit)="addNewTodo($event, formTodo)">
+  <mat-form-field class="full-width">
+    <mat-label>New Todo</mat-label>
+    <input name="title" required matInput placeholder="Add new Todo" value="">
+  </mat-form-field>
+
+  <mat-form-field class="full-width">
+    <mat-label>Leave a description</mat-label>
+    <input name="description" matInput placeholder="Todo's description" value="">
+  </mat-form-field>
+  <button mat-raised-button color="primary">Add</button>
+</form>
