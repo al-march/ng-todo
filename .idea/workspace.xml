@@ -21,7 +21,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
-    <property name="ts.external.directory.path" value="C:\Users\admin\Desktop\lendings\github\ng-todo\n\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\admin\Desktop\lendings\github\ng-todo\angular-tour-of-heroes\node_modules\typescript\lib" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +34,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582097991535</updated>
       <workItem from="1582097997627" duration="10867000" />
+      <workItem from="1582189719114" duration="8000" />
+      <workItem from="1582189803734" duration="486000" />
     </task>
     <servers />
   </component>
@@ -41,6 +43,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1459" y="162" key="SettingsEditor" timestamp="1582190292091">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582190292091" />
     <state x="-1266" y="235" key="search.everywhere.popup" timestamp="1582101668726">
       <screen x="-1858" y="0" width="1858" height="1080" />
     </state>
