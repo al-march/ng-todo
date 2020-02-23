@@ -1,0 +1,11 @@
+<mat-toolbar>
+  <span>My Application</span>
+</mat-toolbar>
+<div class="container">
+  <mat-list>
+    <app-todo-item *ngFor="let todo of todos" [todo]="todo" (onClick)="alert($event)"></app-todo-item>
+  </mat-list>
+
+</div>
+
+<app-dialog></app-dialog>
